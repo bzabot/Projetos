@@ -15,4 +15,4 @@ O dashboard conta com quatro gráficos, sendo:
 
 #### Dashboard
 
-![App Screenshot](Dash - Controle Eng Mecanica.jpg)
+![alt text](https://raw.githubusercontent.com/bzabot/Projetos/main/Dash%20Controle%20-%20Eng%20Mecanica/Dash%20-%20Controle%20Eng%20Mecanica.jpg)
